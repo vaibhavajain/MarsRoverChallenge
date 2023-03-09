@@ -42,6 +42,18 @@ Go to the project directory and run the command "mvn sonar:sonar".
 
 6. To run the jUnit test cases, run the command "mvn test".
 
+Sample test input results:
+
+![image](https://user-images.githubusercontent.com/22928913/224026819-9400776c-2441-442d-88e1-4b73e4af0724.png)
+
+Negative results for erroneous input:
+
+![image](https://user-images.githubusercontent.com/22928913/224027193-97fcab23-0a78-4084-a277-2d3e67dd54a7.png)
+
+Junit:
+
+![image](https://user-images.githubusercontent.com/22928913/224027479-c9d89c7f-3d4f-4821-baa9-f4a0d25598fd.png)
+
 Sonarqube results:
 
 ![image](https://user-images.githubusercontent.com/22928913/224025991-5bd7a231-11ed-4052-9c0a-dacfc18afe60.png)
