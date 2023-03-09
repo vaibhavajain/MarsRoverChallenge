@@ -35,9 +35,9 @@ The build tool used is maven. I have also impletemented Sonarqube for code quali
 4. Enter the maximum coordinates of the plateau and the rover's initial position and commands as input when prompted by the program.
 The program will output the final position of the rover after executing the commands. If the rover goes out of bounds, an error message will be displayed.
 
-5.1 To execite Sonarqube, first install Sonarqube in your local machine.
-5.2 Run the startSonar.bat file (Windows) or sonar.sh file (MAC OS).
-5.3 Sonarqube will run on port 9000 by default. Access the dashboard by hitting http://localhost:9000
-5.3 Go to the project directory and run the command mvn sonar:sonar.
+5.1. To execite Sonarqube, first install Sonarqube in your local machine.
+5.2. Run the startSonar.bat file (Windows) or sonar.sh file (MAC OS).
+5.3. Sonarqube will run on port 9000 by default. Access the dashboard by hitting http://localhost:9000
+5.3. Go to the project directory and run the command mvn sonar:sonar.
 
 6. To run the jUnit test cases, run the command "mvn test".
